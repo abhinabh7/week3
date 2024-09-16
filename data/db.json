@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My Journey into Blogging",
+      "body": "Starting my first blog felt like stepping into a whole new world. I wasn't sure what to expect, but I knew I wanted to share my thoughts and experiences with others. Writing has always been something I've enjoyed, but putting it out there for the world to see? That was both exciting and nerve-wracking. Still, there's something special about hitting 'publish' and knowing your words are out there for someone to read.",
+      "author": "Zunu",
+      "id": "1"
+    },
+    {
+      "title": "The First Post is Always the Hardest",
+      "body": "Let me tell you, writing my first blog post wasn’t easy. It felt like I had so much to say, but I couldn’t figure out how to start. After staring at a blank screen for what felt like forever, I decided to just write about whatever came to mind. Surprisingly, once I got going, the words just flowed! Sometimes, you just need to take that first step, even if it feels awkward at first.",
+      "author": "Abhi",
+      "id": "2"
+    }
+  ]
+}
